@@ -1,3 +1,4 @@
+#include "init_io.h"
 void init_LED_and_Switch(void)
 {
     // PC: Set P1.0 to Strong Drive mode (6)
